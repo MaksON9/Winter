@@ -1,4 +1,8 @@
 print('Hello word')
 print("Say Hi)")
 
-print("Hello from new-repo")
+
+print('Hello from Winter/ Yappa ya')
+
+print('Hello')
+
