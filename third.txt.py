@@ -1,5 +1,6 @@
 a = 4
-i =1
-g = 10
+f = 6
+h = 10
 
-print(i + g + a)
+print('Hellow guy`s')
+print(a + f + h)
