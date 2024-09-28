@@ -1,4 +1,4 @@
 print('Hello word')
 print("Say Hi)")
 
-print('Hello')
+print("Hello from new-repo")
